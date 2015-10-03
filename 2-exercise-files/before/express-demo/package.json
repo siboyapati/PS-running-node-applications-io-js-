@@ -1,0 +1,18 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "Simple demo site",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -u bdd -R spec test.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.1.0"
+  },
+  "devDependencies": {
+    "mocha": "1.19.0",
+    "should": "3.3.1",
+    "supertest": "^0.15.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "e6-demo",
+  "version": "1.0.0",
+  "description": "Some EcmaScript 6 demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecmaScript6",
+    "es6"
+  ],
+  "author": "Marcus Hammarberg <marcusoft.net@gmail.com> (http://www.marcusoft.net)",
+  "license": "MIT",
+  "devDependencies": {
+    "expect": "^1.6.0"
+  }
+}
